@@ -11,6 +11,7 @@ A compact, interactive analytics dashboard that highlights total videos, cumulat
 - Slicer: date-range control for zooming into specific periods and seasonality.
 
 ## Screenshot
+screenshot.png
 
 
 
@@ -22,6 +23,7 @@ A compact, interactive analytics dashboard that highlights total videos, cumulat
 ## Data
 
 - Source: https://www.kaggle.com/datasets/datasnaek/youtube-new
+
 
 
 
